@@ -1,0 +1,16 @@
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\ShareableSpreadSheet.csprojAssemblyReference.cache
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\ShareableSpreadSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\ShareableSpreadSheet.AssemblyInfoInputs.cache
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\ShareableSpreadSheet.AssemblyInfo.cs
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\ShareableSpreadSheet.csproj.CoreCompileInputs.cache
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\ShareableSpreadSheet.genruntimeconfig.cache
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net5.0\Simulator.exe
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net5.0\Simulator.deps.json
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net5.0\Simulator.runtimeconfig.json
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net5.0\Simulator.runtimeconfig.dev.json
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net5.0\Simulator.dll
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net5.0\ref\Simulator.dll
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\bin\Debug\net5.0\Simulator.pdb
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\Simulator.dll
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\ref\Simulator.dll
+C:\Users\Noa Radin\source\repos\ShareableSpreadSheet\ShareableSpreadSheet\obj\Debug\net5.0\Simulator.pdb
